@@ -41,7 +41,7 @@
   <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" width="250" alt="isuruvihan"/> 
 </p> -->
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
