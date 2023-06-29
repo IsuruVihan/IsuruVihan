@@ -30,10 +30,10 @@
 - 📝 I regularly write articles on [https://medium.com/@isuruvihan](https://medium.com/@isuruvihan)
 
 - 📫 How to reach me **isuruvihan@gmail.com**
-<!-- 
-<br/><br/>
 
-## Languages and Tools 🧰 -->
+## Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -133,9 +133,6 @@
   </a> 
 </p>
 
-## Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" /></p>
 
