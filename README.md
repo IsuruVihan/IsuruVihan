@@ -41,7 +41,7 @@
   <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" width="250" alt="isuruvihan"/> 
 </p> -->
 
-<table border="0">
+<table align="center" border="0">
   <tr>
     <td colspan="2" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
