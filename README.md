@@ -37,11 +37,35 @@
 
 ## Statistics 💹 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" width="250" alt="isuruvihan"/> 
-</p>
+</p> -->
 
-<p align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="50%" />
+      <!-- &nbsp; -->
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="50%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="50%" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="50%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="50%" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="50%" />
@@ -49,7 +73,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="50%" />
   </a> 
-</p>
+</p> -->
 
 <!-- <p align="left"> 
   <a href="https://twitter.com/isuruharis99" target="blank">
