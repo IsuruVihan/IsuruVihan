@@ -50,9 +50,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" alt="isuruvihan" /> 
-</p>
+</p> -->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
