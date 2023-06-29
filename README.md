@@ -31,11 +31,11 @@
 
 - 📫 How to reach me **isuruvihan@gmail.com**
 
-## Blogs posts
+## Blogs posts 🗞️
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+<br/><br/>
 
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
