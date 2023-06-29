@@ -1,25 +1,26 @@
 <h1 align="center">Hi there! I'm Isuru Harischandra 😎</h1>
+
 <p align="center">
   <b>Connect with me:</b>
 </p>
 <div align="center">
-<p align="center">
-  <a href="https://www.bitzquad.com/" target="blank">
-    <img align="center" src="https://www.bitzquad.com/logo.webp" alt="bitzquad" height="20" width="20" />
-  </a>
-  <a href="https://twitter.com/isuruharis99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isuruharis99" height="20" width="50" />
-  <a href="https://medium.com/@isuruvihan" target="blank">
-    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrrjmspZyVMIEkryHQTqmWKKEklboeK71jw" alt="@isuruvihan" height="30" width="30" />
-  </a>
-  </a>
-  <a href="https://linkedin.com/in/isuru harischandra" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru harischandra" height="20" width="50" />
-  </a>
-  <a href="mailto:isuruvihan@gmail.com" target="blank">
-    <img align="center" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" alt="isuruvihan@gmail.com" height="30" width="30" />
-  </a>
-</p>
+  <p align="center">
+    <a href="https://www.bitzquad.com/" target="blank">
+      <img align="center" src="https://www.bitzquad.com/logo.webp" alt="bitzquad" height="20" width="20" />
+    </a>
+    <a href="https://twitter.com/isuruharis99" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isuruharis99" height="20" width="50" />
+    <a href="https://medium.com/@isuruvihan" target="blank">
+      <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrrjmspZyVMIEkryHQTqmWKKEklboeK71jw" alt="@isuruvihan" height="30" width="30" />
+    </a>
+    </a>
+    <a href="https://linkedin.com/in/isuru harischandra" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru harischandra" height="20" width="50" />
+    </a>
+    <a href="mailto:isuruvihan@gmail.com" target="blank">
+      <img align="center" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" alt="isuruvihan@gmail.com" height="30" width="30" />
+    </a>
+  </p>
 </div>
 
 <br/><br/>
