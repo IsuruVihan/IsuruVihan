@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Isuru Harischandra</h1>
-<h3 align="center">MERN Stack Enthusiast | ML Enthusiast</h3>
+<h1 align="center">Hola! 👋, I'm Isuru Harischandra</h1>
+<h3 align="center">BSc. (Hons) in Information Systems - Final year Undergraduate at Uiversityof Colombo Schol of Computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" alt="isuruvihan" /> </p>
 
