@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" />
 </p>
 
 <p>
@@ -54,7 +54,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" />
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" />
   </a> 
@@ -69,7 +69,7 @@
 
 <br/><br/>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="160" height="100"/> 
   </a> 
