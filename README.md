@@ -30,10 +30,10 @@
 - 📝 I regularly write articles on [https://medium.com/@isuruvihan](https://medium.com/@isuruvihan)
 
 - 📫 How to reach me **isuruvihan@gmail.com**
-
+<!-- 
 <br/><br/>
 
-## Languages and Tools 🧰
+## Languages and Tools 🧰 -->
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> 
