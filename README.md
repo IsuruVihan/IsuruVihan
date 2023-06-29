@@ -38,7 +38,7 @@
 ## Statistics 💹 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" width="100" height="100" alt="isuruvihan" /> 
+  <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" width="300" height="100" alt="isuruvihan" /> 
 </p>
 
 <p>
