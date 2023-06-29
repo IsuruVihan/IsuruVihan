@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Isuru Harischandra 😎</h1>
-<b align="center">
-  Connect with me:
-</b>
+<p align="center">
+  <b>Connect with me:</b>
+</p>
 <div align="center">
 <p align="center">
   <a href="https://www.bitzquad.com/" target="blank">
