@@ -43,12 +43,8 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
-      <!-- &nbsp; -->
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" height="100%" />
+    <td colspan="2">
+      <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
     </td>
   </tr>
   <tr>
@@ -57,8 +53,12 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
+      <!-- &nbsp; -->
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" height="100%" />
     </td>
   </tr>
 </table>
