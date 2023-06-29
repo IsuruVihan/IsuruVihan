@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Isuru Harischandra 😎</h1>
-<p align="center">
-  A passionate full stack developer from Sri Lanka
-</p>
+<b align="center">
+  Connect with me:
+</b>
 <div align="center">
 <p align="center">
   <a href="https://www.bitzquad.com/" target="blank">
