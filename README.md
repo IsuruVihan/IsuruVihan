@@ -43,7 +43,7 @@
 
 <table border="0">
   <tr>
-    <td colspan="2">
+    <td colspan="2" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
     </td>
   </tr>
