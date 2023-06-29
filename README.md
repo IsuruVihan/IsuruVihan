@@ -44,22 +44,22 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="50%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
       <!-- &nbsp; -->
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="50%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="50%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="50%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
       </a>
     </td>
   </tr>
