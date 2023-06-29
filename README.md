@@ -60,11 +60,11 @@
   </a> 
 </p>
 
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://twitter.com/isuruharis99" target="blank">
     <img src="https://img.shields.io/twitter/follow/isuruharis99?logo=twitter&style=for-the-badge" alt="isuruharis99" />
   </a> 
-</p>
+</p> -->
 
 
 <br/><br/>
