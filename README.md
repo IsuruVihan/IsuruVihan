@@ -25,11 +25,13 @@
 <br/><br/>
 
 ## About Me 😎
-- 🌱 I’m currently learning **Next.js, Golang**
+- 📚 I’m currently learning **Next.js, Golang**
 
 - 📝 I regularly write articles on [https://medium.com/@isuruvihan](https://medium.com/@isuruvihan)
 
 - 📫 How to reach me **isuruvihan@gmail.com**
+  
+- ⚡ Fun fact **I ♥️ 🎤🎵**
 
 ## Languages and Tools
 <p align="left"> 
