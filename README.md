@@ -48,7 +48,7 @@
       <!-- &nbsp; -->
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" height="100%" />
     </td>
   </tr>
   <tr>
