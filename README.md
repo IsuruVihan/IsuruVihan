@@ -30,13 +30,13 @@
 - 📝 I regularly write articles on [https://medium.com/@isuruvihan](https://medium.com/@isuruvihan)
 
 - 📫 How to reach me **isuruvihan@gmail.com**
-  
-- ⚡ Fun fact **I ♥️ 🎤🎵**
 
-## Languages and Tools
+<br/><br/>
+
+## Languages and Tools 🧰
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="70"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="100" height="100"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="70"/> 
