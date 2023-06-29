@@ -33,6 +33,10 @@
 
 ## Blogs posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Concurrent Programming in Go with Select and Channels](https://medium.com/@isuruvihan/mastering-concurrent-programming-in-go-with-select-and-channels-44f6af348c7d?source=rss-a41e1a6bf452------2)
+- [Exploring Process Creation and Execution in Linux: A Hands-On Guide](https://medium.com/@isuruvihan/exploring-process-creation-and-execution-in-linux-a-hands-on-guide-a59b171a0a3?source=rss-a41e1a6bf452------2)
+- [Golang: Channel Directions](https://medium.com/@isuruvihan/golang-channel-directions-607637e9edac?source=rss-a41e1a6bf452------2)
+- [Mastering Channel Synchronization in Golang: A Comprehensive Guide](https://medium.com/@isuruvihan/mastering-channel-synchronization-in-golang-a-comprehensive-guide-fe1a8c62785a?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
