@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **isuruvihan@gmail.com**
 
-## Blogs posts 🗞️
+## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
 - [Mastering Concurrent Programming in Go with Select and Channels](https://medium.com/@isuruvihan/mastering-concurrent-programming-in-go-with-select-and-channels-44f6af348c7d?source=rss-a41e1a6bf452------2)
 - [Exploring Process Creation and Execution in Linux: A Hands-On Guide](https://medium.com/@isuruvihan/exploring-process-creation-and-execution-in-linux-a-hands-on-guide-a59b171a0a3?source=rss-a41e1a6bf452------2)
