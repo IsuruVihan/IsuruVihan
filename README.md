@@ -3,7 +3,7 @@
 <p align="center">
   <b>Connect with me:</b>
 </p>
-<div>
+<div align="center">
   <p align="center">
     <a href="https://www.bitzquad.com/" target="blank">
       <img align="center" src="https://www.bitzquad.com/logo.webp" alt="bitzquad" height="20" width="20" />
