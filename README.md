@@ -25,7 +25,7 @@
 <br/><br/>
 
 ## About Me 😎
-- 📚 I’m currently learning **Next.js, Golang**
+- 📚 I’m currently learning **Next.js, Golang, Tailwindcss, TypeScript**
 
 - 📝 I regularly write articles on [https://medium.com/@isuruvihan](https://medium.com/@isuruvihan)
 
