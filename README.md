@@ -35,60 +35,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Statistics 💹 
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=isuruvihan&label=Profile%20views&color=0e75b6&style=flat" width="250" alt="isuruvihan"/> 
-</p> -->
-
-<table align="center" border="0">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
-    </td>
-    <!-- <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" height="100%" />
-    </td> -->
-  </tr>
-  <tr>
-    <!-- <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
-    </td> -->
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" height="100%" />
-    </td>
-  </tr>
-</table>
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="50%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="50%" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="50%" />
-  </a> 
-</p> -->
-
-<!-- <p align="left"> 
-  <a href="https://twitter.com/isuruharis99" target="blank">
-    <img src="https://img.shields.io/twitter/follow/isuruharis99?logo=twitter&style=for-the-badge" alt="isuruharis99" />
-  </a> 
-</p> -->
-
-
-<br/><br/>
-
+## Tools and Languages⚡ 
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="160" height="100"/> 
