@@ -42,12 +42,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isuruvihan&show_icons=true&locale=en&layout=compact" alt="isuruvihan" width="50%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isuruvihan&show_icons=true&locale=en" alt="isuruvihan" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isuruvihan&" alt="isuruvihan" width="50%" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=isuruvihan" alt="isuruvihan" width="50%" />
   </a> 
 </p>
 
