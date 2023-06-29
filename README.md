@@ -38,6 +38,12 @@
 - [Exploring Process Creation and Execution in Linux: A Hands-On Guide](https://medium.com/@isuruvihan/exploring-process-creation-and-execution-in-linux-a-hands-on-guide-a59b171a0a3?source=rss-a41e1a6bf452------2)
 - [Golang: Channel Directions](https://medium.com/@isuruvihan/golang-channel-directions-607637e9edac?source=rss-a41e1a6bf452------2)
 - [Mastering Channel Synchronization in Golang: A Comprehensive Guide](https://medium.com/@isuruvihan/mastering-channel-synchronization-in-golang-a-comprehensive-guide-fe1a8c62785a?source=rss-a41e1a6bf452------2)
+- [10 Tricks to take the Performance of your Website to the Moon](https://medium.com/@isuruvihan/10-tricks-to-take-the-performance-of-your-website-to-the-moon-cfe567046221?source=rss-a41e1a6bf452------2)
+- [Buffered Channels in Go](https://medium.com/@isuruvihan/buffered-channels-in-go-f04ec352932c?source=rss-a41e1a6bf452------2)
+- [Exploring Channels in Go: Connecting Goroutines](https://medium.com/@isuruvihan/exploring-channels-in-go-connecting-goroutines-2f61c39015b8?source=rss-a41e1a6bf452------2)
+- [The Power of GCC Optimizations](https://towardsdev.com/the-power-of-gcc-optimizations-ceb8a55eb250?source=rss-a41e1a6bf452------2)
+- [Mastering Goroutines in Go: A Lightweight Approach to Concurrency](https://medium.com/@isuruvihan/mastering-goroutines-in-go-a-lightweight-approach-to-concurrency-db0ab367993c?source=rss-a41e1a6bf452------2)
+- [Error Handling in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/error-handling-in-go-a-comprehensive-guide-ce65c833a85c?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
