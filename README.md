@@ -34,6 +34,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Timeouts in Go: A Comprehensive Guide for Efficient Execution](https://medium.com/@isuruvihan/implementing-timeouts-in-go-a-comprehensive-guide-for-efficient-execution-eb9a536344ba?source=rss-a41e1a6bf452------2)
 - [Mastering Concurrent Programming in Go with Select and Channels](https://medium.com/@isuruvihan/mastering-concurrent-programming-in-go-with-select-and-channels-44f6af348c7d?source=rss-a41e1a6bf452------2)
 - [Exploring Process Creation and Execution in Linux: A Hands-On Guide](https://medium.com/@isuruvihan/exploring-process-creation-and-execution-in-linux-a-hands-on-guide-a59b171a0a3?source=rss-a41e1a6bf452------2)
 - [Golang: Channel Directions](https://medium.com/@isuruvihan/golang-channel-directions-607637e9edac?source=rss-a41e1a6bf452------2)
@@ -43,7 +44,6 @@
 - [Exploring Channels in Go: Connecting Goroutines](https://medium.com/@isuruvihan/exploring-channels-in-go-connecting-goroutines-2f61c39015b8?source=rss-a41e1a6bf452------2)
 - [The Power of GCC Optimizations](https://towardsdev.com/the-power-of-gcc-optimizations-ceb8a55eb250?source=rss-a41e1a6bf452------2)
 - [Mastering Goroutines in Go: A Lightweight Approach to Concurrency](https://medium.com/@isuruvihan/mastering-goroutines-in-go-a-lightweight-approach-to-concurrency-db0ab367993c?source=rss-a41e1a6bf452------2)
-- [Error Handling in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/error-handling-in-go-a-comprehensive-guide-ce65c833a85c?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
