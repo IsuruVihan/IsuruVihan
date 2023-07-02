@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Isuru Harischandra 😎</h1>
-<buton onclick="alert('Hello World!')">Click me!</buton>
+<button onclick="alert('Hello World!')">Click me!</button>
 <p align="center">
   <b>Connect with me:</b>
 </p>
