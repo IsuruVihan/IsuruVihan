@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Closing Channels in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/closing-channels-in-go-a-comprehensive-guide-e389929f2b23?source=rss-a41e1a6bf452------2)
 - [Exploring Non-blocking Channel Operations in Go](https://medium.com/@isuruvihan/exploring-non-blocking-channel-operations-in-go-f2bb97269fdd?source=rss-a41e1a6bf452------2)
 - [Understanding Inter-process Communication in Linux: Fork, Pipes, Shared Memory, and Message Queues](https://medium.com/@isuruvihan/understanding-inter-process-communication-in-linux-fork-pipes-shared-memory-and-message-queues-2503a9e334ad?source=rss-a41e1a6bf452------2)
 - [Implementing Timeouts in Go: A Comprehensive Guide for Efficient Execution](https://medium.com/@isuruvihan/implementing-timeouts-in-go-a-comprehensive-guide-for-efficient-execution-eb9a536344ba?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Mastering Channel Synchronization in Golang: A Comprehensive Guide](https://medium.com/@isuruvihan/mastering-channel-synchronization-in-golang-a-comprehensive-guide-fe1a8c62785a?source=rss-a41e1a6bf452------2)
 - [10 Tricks to take the Performance of your Website to the Moon](https://medium.com/@isuruvihan/10-tricks-to-take-the-performance-of-your-website-to-the-moon-cfe567046221?source=rss-a41e1a6bf452------2)
 - [Buffered Channels in Go](https://medium.com/@isuruvihan/buffered-channels-in-go-f04ec352932c?source=rss-a41e1a6bf452------2)
-- [Exploring Channels in Go: Connecting Goroutines](https://medium.com/@isuruvihan/exploring-channels-in-go-connecting-goroutines-2f61c39015b8?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
