@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Range over Channels in Go: A Powerful Concurrency Feature](https://medium.com/@isuruvihan/range-over-channels-in-go-a-powerful-concurrency-feature-ff8924b3415?source=rss-a41e1a6bf452------2)
 - [Understanding Motivation: A Comprehensive Guide to Self-Determination Theory](https://medium.com/@isuruvihan/understanding-motivation-a-comprehensive-guide-to-self-determination-theory-58b49badf7dc?source=rss-a41e1a6bf452------2)
 - [Closing Channels in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/closing-channels-in-go-a-comprehensive-guide-e389929f2b23?source=rss-a41e1a6bf452------2)
 - [Exploring Non-blocking Channel Operations in Go](https://medium.com/@isuruvihan/exploring-non-blocking-channel-operations-in-go-f2bb97269fdd?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Exploring Process Creation and Execution in Linux: A Hands-On Guide](https://medium.com/@isuruvihan/exploring-process-creation-and-execution-in-linux-a-hands-on-guide-a59b171a0a3?source=rss-a41e1a6bf452------2)
 - [Golang: Channel Directions](https://medium.com/@isuruvihan/golang-channel-directions-607637e9edac?source=rss-a41e1a6bf452------2)
 - [Mastering Channel Synchronization in Golang: A Comprehensive Guide](https://medium.com/@isuruvihan/mastering-channel-synchronization-in-golang-a-comprehensive-guide-fe1a8c62785a?source=rss-a41e1a6bf452------2)
-- [10 Tricks to take the Performance of your Website to the Moon](https://medium.com/@isuruvihan/10-tricks-to-take-the-performance-of-your-website-to-the-moon-cfe567046221?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
