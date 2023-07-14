@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Timers in Go: An Essential Guide](https://medium.com/@isuruvihan/mastering-timers-in-go-an-essential-guide-2aa451bcd2c6?source=rss-a41e1a6bf452------2)
 - [Range over Channels in Go: A Powerful Concurrency Feature](https://medium.com/@isuruvihan/range-over-channels-in-go-a-powerful-concurrency-feature-ff8924b3415?source=rss-a41e1a6bf452------2)
 - [Understanding Motivation: A Comprehensive Guide to Self-Determination Theory](https://medium.com/@isuruvihan/understanding-motivation-a-comprehensive-guide-to-self-determination-theory-58b49badf7dc?source=rss-a41e1a6bf452------2)
 - [Closing Channels in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/closing-channels-in-go-a-comprehensive-guide-e389929f2b23?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Mastering Concurrent Programming in Go with Select and Channels](https://medium.com/@isuruvihan/mastering-concurrent-programming-in-go-with-select-and-channels-44f6af348c7d?source=rss-a41e1a6bf452------2)
 - [Exploring Process Creation and Execution in Linux: A Hands-On Guide](https://medium.com/@isuruvihan/exploring-process-creation-and-execution-in-linux-a-hands-on-guide-a59b171a0a3?source=rss-a41e1a6bf452------2)
 - [Golang: Channel Directions](https://medium.com/@isuruvihan/golang-channel-directions-607637e9edac?source=rss-a41e1a6bf452------2)
-- [Mastering Channel Synchronization in Golang: A Comprehensive Guide](https://medium.com/@isuruvihan/mastering-channel-synchronization-in-golang-a-comprehensive-guide-fe1a8c62785a?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
