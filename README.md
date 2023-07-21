@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://medium.com/@isuruvihan/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
 - [Understanding Tickers in Go: Efficient Time-Based Event Scheduling](https://medium.com/@isuruvihan/understanding-tickers-in-go-efficient-time-based-event-scheduling-c0ca8c7e05de?source=rss-a41e1a6bf452------2)
 - [Ensuring Database Integrity: Data Accuracy and Consistency](https://medium.com/@isuruvihan/ensuring-database-integrity-data-accuracy-and-consistency-550abbfaf402?source=rss-a41e1a6bf452------2)
 - [Mastering Timers in Go: An Essential Guide](https://medium.com/@isuruvihan/mastering-timers-in-go-an-essential-guide-2aa451bcd2c6?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Exploring Non-blocking Channel Operations in Go](https://medium.com/@isuruvihan/exploring-non-blocking-channel-operations-in-go-f2bb97269fdd?source=rss-a41e1a6bf452------2)
 - [Understanding Inter-process Communication in Linux: Fork, Pipes, Shared Memory, and Message Queues](https://medium.com/@isuruvihan/understanding-inter-process-communication-in-linux-fork-pipes-shared-memory-and-message-queues-2503a9e334ad?source=rss-a41e1a6bf452------2)
 - [Implementing Timeouts in Go: A Comprehensive Guide for Efficient Execution](https://medium.com/@isuruvihan/implementing-timeouts-in-go-a-comprehensive-guide-for-efficient-execution-eb9a536344ba?source=rss-a41e1a6bf452------2)
-- [Mastering Concurrent Programming in Go with Select and Channels](https://medium.com/@isuruvihan/mastering-concurrent-programming-in-go-with-select-and-channels-44f6af348c7d?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
