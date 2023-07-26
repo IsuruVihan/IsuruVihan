@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://medium.com/@isuruvihan/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
 - [Multi-User and Single-User Databases](https://medium.com/@isuruvihan/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
 - [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://medium.com/@isuruvihan/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
 - [Understanding Tickers in Go: Efficient Time-Based Event Scheduling](https://medium.com/@isuruvihan/understanding-tickers-in-go-efficient-time-based-event-scheduling-c0ca8c7e05de?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Understanding Motivation: A Comprehensive Guide to Self-Determination Theory](https://medium.com/@isuruvihan/understanding-motivation-a-comprehensive-guide-to-self-determination-theory-58b49badf7dc?source=rss-a41e1a6bf452------2)
 - [Closing Channels in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/closing-channels-in-go-a-comprehensive-guide-e389929f2b23?source=rss-a41e1a6bf452------2)
 - [Exploring Non-blocking Channel Operations in Go](https://medium.com/@isuruvihan/exploring-non-blocking-channel-operations-in-go-f2bb97269fdd?source=rss-a41e1a6bf452------2)
-- [Understanding Inter-process Communication in Linux: Fork, Pipes, Shared Memory, and Message Queues](https://medium.com/@isuruvihan/understanding-inter-process-communication-in-linux-fork-pipes-shared-memory-and-message-queues-2503a9e334ad?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
