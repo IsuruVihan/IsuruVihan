@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Database Access Operations in 4 Minutes](https://medium.com/@isuruvihan/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
 - [Rate Limiting in Go: Controlling Traffic with Efficiency](https://medium.com/@isuruvihan/rate-limiting-in-go-controlling-traffic-with-efficiency-6a5ef7444ef8?source=rss-a41e1a6bf452------2)
 - [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://medium.com/@isuruvihan/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
 - [Multi-User and Single-User Databases](https://medium.com/@isuruvihan/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Mastering Timers in Go: An Essential Guide](https://medium.com/@isuruvihan/mastering-timers-in-go-an-essential-guide-2aa451bcd2c6?source=rss-a41e1a6bf452------2)
 - [Range over Channels in Go: A Powerful Concurrency Feature](https://medium.com/@isuruvihan/range-over-channels-in-go-a-powerful-concurrency-feature-ff8924b3415?source=rss-a41e1a6bf452------2)
 - [Understanding Motivation: A Comprehensive Guide to Self-Determination Theory](https://medium.com/@isuruvihan/understanding-motivation-a-comprehensive-guide-to-self-determination-theory-58b49badf7dc?source=rss-a41e1a6bf452------2)
-- [Closing Channels in Go: A Comprehensive Guide](https://medium.com/@isuruvihan/closing-channels-in-go-a-comprehensive-guide-e389929f2b23?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
