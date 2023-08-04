@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Concurrent State Management in Go: Using Mutex for Thread Safety](https://medium.com/@isuruvihan/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
 - [Mastering Atomic Counters in Go: A Guide to Efficient State Management](https://medium.com/@isuruvihan/mastering-atomic-counters-in-go-a-guide-to-efficient-state-management-cbcd2a4e5b0?source=rss-a41e1a6bf452------2)
 - [Database Access Operations in 4 Minutes](https://medium.com/@isuruvihan/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
 - [Rate Limiting in Go: Controlling Traffic with Efficiency](https://medium.com/@isuruvihan/rate-limiting-in-go-controlling-traffic-with-efficiency-6a5ef7444ef8?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Understanding Tickers in Go: Efficient Time-Based Event Scheduling](https://medium.com/@isuruvihan/understanding-tickers-in-go-efficient-time-based-event-scheduling-c0ca8c7e05de?source=rss-a41e1a6bf452------2)
 - [Ensuring Database Integrity: Data Accuracy and Consistency](https://medium.com/@isuruvihan/ensuring-database-integrity-data-accuracy-and-consistency-550abbfaf402?source=rss-a41e1a6bf452------2)
 - [Mastering Timers in Go: An Essential Guide](https://medium.com/@isuruvihan/mastering-timers-in-go-an-essential-guide-2aa451bcd2c6?source=rss-a41e1a6bf452------2)
-- [Range over Channels in Go: A Powerful Concurrency Feature](https://medium.com/@isuruvihan/range-over-channels-in-go-a-powerful-concurrency-feature-ff8924b3415?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
