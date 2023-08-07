@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Concurrent Execution of Processes in DBMS: Single, Parallel, and Interleaved Processing](https://medium.com/@isuruvihan/concurrent-execution-of-processes-in-dbms-single-parallel-and-interleaved-processing-bf89f71ef29e?source=rss-a41e1a6bf452------2)
 - [Concurrent State Management in Go: Using Mutex for Thread Safety](https://medium.com/@isuruvihan/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
 - [Mastering Atomic Counters in Go: A Guide to Efficient State Management](https://medium.com/@isuruvihan/mastering-atomic-counters-in-go-a-guide-to-efficient-state-management-cbcd2a4e5b0?source=rss-a41e1a6bf452------2)
 - [Database Access Operations in 4 Minutes](https://medium.com/@isuruvihan/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://medium.com/@isuruvihan/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
 - [Understanding Tickers in Go: Efficient Time-Based Event Scheduling](https://medium.com/@isuruvihan/understanding-tickers-in-go-efficient-time-based-event-scheduling-c0ca8c7e05de?source=rss-a41e1a6bf452------2)
 - [Ensuring Database Integrity: Data Accuracy and Consistency](https://medium.com/@isuruvihan/ensuring-database-integrity-data-accuracy-and-consistency-550abbfaf402?source=rss-a41e1a6bf452------2)
-- [Mastering Timers in Go: An Essential Guide](https://medium.com/@isuruvihan/mastering-timers-in-go-an-essential-guide-2aa451bcd2c6?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
