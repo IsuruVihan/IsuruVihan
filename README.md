@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Stateful Goroutines: Efficient Concurrency with Go](https://medium.com/@isuruvihan/stateful-goroutines-efficient-concurrency-with-go-e6e0736b2342?source=rss-a41e1a6bf452------2)
 - [Concurrent Execution of Processes in DBMS: Single, Parallel, and Interleaved Processing](https://medium.com/@isuruvihan/concurrent-execution-of-processes-in-dbms-single-parallel-and-interleaved-processing-bf89f71ef29e?source=rss-a41e1a6bf452------2)
 - [Concurrent State Management in Go: Using Mutex for Thread Safety](https://medium.com/@isuruvihan/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
 - [Mastering Atomic Counters in Go: A Guide to Efficient State Management](https://medium.com/@isuruvihan/mastering-atomic-counters-in-go-a-guide-to-efficient-state-management-cbcd2a4e5b0?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Multi-User and Single-User Databases](https://medium.com/@isuruvihan/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
 - [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://medium.com/@isuruvihan/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
 - [Understanding Tickers in Go: Efficient Time-Based Event Scheduling](https://medium.com/@isuruvihan/understanding-tickers-in-go-efficient-time-based-event-scheduling-c0ca8c7e05de?source=rss-a41e1a6bf452------2)
-- [Ensuring Database Integrity: Data Accuracy and Consistency](https://medium.com/@isuruvihan/ensuring-database-integrity-data-accuracy-and-consistency-550abbfaf402?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
