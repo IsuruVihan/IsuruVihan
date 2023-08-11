@@ -33,16 +33,16 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
-- [Sorting in Go: Mastering Data Organization with Golang](https://medium.com/@isuruvihan/sorting-in-go-mastering-data-organization-with-golang-bd81851c4dc8?source=rss-a41e1a6bf452------2)
-- [Stateful Goroutines: Efficient Concurrency with Go](https://medium.com/@isuruvihan/stateful-goroutines-efficient-concurrency-with-go-e6e0736b2342?source=rss-a41e1a6bf452------2)
-- [Concurrent Execution of Processes in DBMS: Single, Parallel, and Interleaved Processing](https://medium.com/@isuruvihan/concurrent-execution-of-processes-in-dbms-single-parallel-and-interleaved-processing-bf89f71ef29e?source=rss-a41e1a6bf452------2)
-- [Concurrent State Management in Go: Using Mutex for Thread Safety](https://medium.com/@isuruvihan/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
-- [Mastering Atomic Counters in Go: A Guide to Efficient State Management](https://medium.com/@isuruvihan/mastering-atomic-counters-in-go-a-guide-to-efficient-state-management-cbcd2a4e5b0?source=rss-a41e1a6bf452------2)
-- [Database Access Operations in 4 Minutes](https://medium.com/@isuruvihan/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
-- [Rate Limiting in Go: Controlling Traffic with Efficiency](https://medium.com/@isuruvihan/rate-limiting-in-go-controlling-traffic-with-efficiency-6a5ef7444ef8?source=rss-a41e1a6bf452------2)
-- [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://medium.com/@isuruvihan/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
-- [Multi-User and Single-User Databases](https://medium.com/@isuruvihan/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
-- [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://medium.com/@isuruvihan/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
+- [Sorting in Go: Mastering Data Organization with Golang](https://towardsdev.com/sorting-in-go-mastering-data-organization-with-golang-bd81851c4dc8?source=rss-a41e1a6bf452------2)
+- [Stateful Goroutines: Efficient Concurrency with Go](https://towardsdev.com/stateful-goroutines-efficient-concurrency-with-go-e6e0736b2342?source=rss-a41e1a6bf452------2)
+- [Concurrent Execution of Processes in DBMS: Single, Parallel, and Interleaved Processing](https://towardsdev.com/concurrent-execution-of-processes-in-dbms-single-parallel-and-interleaved-processing-bf89f71ef29e?source=rss-a41e1a6bf452------2)
+- [Concurrent State Management in Go: Using Mutex for Thread Safety](https://towardsdev.com/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
+- [Mastering Atomic Counters in Go: A Guide to Efficient State Management](https://towardsdev.com/mastering-atomic-counters-in-go-a-guide-to-efficient-state-management-cbcd2a4e5b0?source=rss-a41e1a6bf452------2)
+- [Database Access Operations in 4 Minutes](https://towardsdev.com/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
+- [Rate Limiting in Go: Controlling Traffic with Efficiency](https://towardsdev.com/rate-limiting-in-go-controlling-traffic-with-efficiency-6a5ef7444ef8?source=rss-a41e1a6bf452------2)
+- [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://towardsdev.com/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
+- [Multi-User and Single-User Databases](https://towardsdev.com/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
+- [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://towardsdev.com/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
