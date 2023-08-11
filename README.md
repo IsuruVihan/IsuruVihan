@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Sorting in Go: Mastering Data Organization with Golang](https://medium.com/@isuruvihan/sorting-in-go-mastering-data-organization-with-golang-bd81851c4dc8?source=rss-a41e1a6bf452------2)
 - [Stateful Goroutines: Efficient Concurrency with Go](https://medium.com/@isuruvihan/stateful-goroutines-efficient-concurrency-with-go-e6e0736b2342?source=rss-a41e1a6bf452------2)
 - [Concurrent Execution of Processes in DBMS: Single, Parallel, and Interleaved Processing](https://medium.com/@isuruvihan/concurrent-execution-of-processes-in-dbms-single-parallel-and-interleaved-processing-bf89f71ef29e?source=rss-a41e1a6bf452------2)
 - [Concurrent State Management in Go: Using Mutex for Thread Safety](https://medium.com/@isuruvihan/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://medium.com/@isuruvihan/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
 - [Multi-User and Single-User Databases](https://medium.com/@isuruvihan/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
 - [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://medium.com/@isuruvihan/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
-- [Understanding Tickers in Go: Efficient Time-Based Event Scheduling](https://medium.com/@isuruvihan/understanding-tickers-in-go-efficient-time-based-event-scheduling-c0ca8c7e05de?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
