@@ -41,7 +41,7 @@
 - [Database Access Operations in 4 Minutes](https://towardsdev.com/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
 - [Rate Limiting in Go: Controlling Traffic with Efficiency](https://towardsdev.com/rate-limiting-in-go-controlling-traffic-with-efficiency-6a5ef7444ef8?source=rss-a41e1a6bf452------2)
 - [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://towardsdev.com/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
-- [Multi-User and Single-User Databases](https://medium.com/@isuruvihan/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
+- [Multi-User and Single-User Databases](https://blog.stackademic.com/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
 - [Exploring Worker Pools in Go: Harnessing Concurrency for Efficient Execution](https://towardsdev.com/exploring-worker-pools-in-go-harnessing-concurrency-for-efficient-execution-35ca3b3262d8?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
