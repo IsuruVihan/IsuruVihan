@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Panic in Golang: Mastering Error Handling](https://medium.com/@isuruvihan/advanced-panic-in-golang-mastering-error-handling-113661f9e363?source=rss-a41e1a6bf452------2)
 - [Introduction to Version Control: Managing Your Code with Confidence](https://towardsdev.com/introduction-to-version-control-managing-your-code-with-confidence-b24c0d25c519?source=rss-a41e1a6bf452------2)
 - [Sorting in Go: Mastering Data Organization with Golang](https://towardsdev.com/sorting-in-go-mastering-data-organization-with-golang-bd81851c4dc8?source=rss-a41e1a6bf452------2)
 - [Stateful Goroutines: Efficient Concurrency with Go](https://towardsdev.com/stateful-goroutines-efficient-concurrency-with-go-e6e0736b2342?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Database Access Operations in 4 Minutes](https://towardsdev.com/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
 - [Rate Limiting in Go: Controlling Traffic with Efficiency](https://towardsdev.com/rate-limiting-in-go-controlling-traffic-with-efficiency-6a5ef7444ef8?source=rss-a41e1a6bf452------2)
 - [Understanding Wait Groups in Go: Synchronizing Goroutines with Ease](https://towardsdev.com/understanding-wait-groups-in-go-synchronizing-goroutines-with-ease-e4ca2d5d77c2?source=rss-a41e1a6bf452------2)
-- [Multi-User and Single-User Databases](https://blog.stackademic.com/multi-user-and-single-user-databases-c238275a1612?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
