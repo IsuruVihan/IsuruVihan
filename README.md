@@ -33,7 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Panic in Golang: Mastering Error Handling](https://medium.com/@isuruvihan/advanced-panic-in-golang-mastering-error-handling-113661f9e363?source=rss-a41e1a6bf452------2)
+- [Advanced Panic in Golang: Mastering Error Handling](https://towardsdev.com/advanced-panic-in-golang-mastering-error-handling-113661f9e363?source=rss-a41e1a6bf452------2)
 - [Introduction to Version Control: Managing Your Code with Confidence](https://towardsdev.com/introduction-to-version-control-managing-your-code-with-confidence-b24c0d25c519?source=rss-a41e1a6bf452------2)
 - [Sorting in Go: Mastering Data Organization with Golang](https://towardsdev.com/sorting-in-go-mastering-data-organization-with-golang-bd81851c4dc8?source=rss-a41e1a6bf452------2)
 - [Stateful Goroutines: Efficient Concurrency with Go](https://towardsdev.com/stateful-goroutines-efficient-concurrency-with-go-e6e0736b2342?source=rss-a41e1a6bf452------2)
