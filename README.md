@@ -33,6 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Recover in Go: Advanced Error Handling Concepts](https://medium.com/@isuruvihan/mastering-recover-in-go-advanced-error-handling-concepts-fe353c94da36?source=rss-a41e1a6bf452------2)
 - [10 Signs of a Bad Software Engineer: Red Flags to Watch For](https://towardsdev.com/10-signs-of-a-bad-software-engineer-red-flags-to-watch-for-583d285cd6c3?source=rss-a41e1a6bf452------2)
 - [Go Defer: Advanced Concepts](https://towardsdev.com/go-defer-advanced-concepts-cdc491e182f8?source=rss-a41e1a6bf452------2)
 - [Advanced Panic in Golang: Mastering Error Handling](https://towardsdev.com/advanced-panic-in-golang-mastering-error-handling-113661f9e363?source=rss-a41e1a6bf452------2)
@@ -42,7 +43,6 @@
 - [Concurrent Execution of Processes in DBMS: Single, Parallel, and Interleaved Processing](https://towardsdev.com/concurrent-execution-of-processes-in-dbms-single-parallel-and-interleaved-processing-bf89f71ef29e?source=rss-a41e1a6bf452------2)
 - [Concurrent State Management in Go: Using Mutex for Thread Safety](https://towardsdev.com/concurrent-state-management-in-go-using-mutex-for-thread-safety-b3a9bd3d2f68?source=rss-a41e1a6bf452------2)
 - [Mastering Atomic Counters in Go: A Guide to Efficient State Management](https://towardsdev.com/mastering-atomic-counters-in-go-a-guide-to-efficient-state-management-cbcd2a4e5b0?source=rss-a41e1a6bf452------2)
-- [Database Access Operations in 4 Minutes](https://towardsdev.com/database-access-operations-in-4-minutes-ef70f161978c?source=rss-a41e1a6bf452------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools and Languages⚡ 
