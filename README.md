@@ -34,7 +34,7 @@
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
 - [Mastering Recover in Go: Advanced Error Handling Concepts](https://towardsdev.com/mastering-recover-in-go-advanced-error-handling-concepts-fe353c94da36?source=rss-a41e1a6bf452------2)
-- [10 Signs of a Bad Software Engineer: Red Flags to Watch For](https://towardsdev.com/10-signs-of-a-bad-software-engineer-red-flags-to-watch-for-583d285cd6c3?source=rss-a41e1a6bf452------2)
+- [10 Signs of a Bad Software Engineer: Red Flags to Watch For](https://medium.com/@isuruvihan/10-signs-of-a-bad-software-engineer-red-flags-to-watch-for-583d285cd6c3?source=rss-a41e1a6bf452------2)
 - [Go Defer: Advanced Concepts](https://towardsdev.com/go-defer-advanced-concepts-cdc491e182f8?source=rss-a41e1a6bf452------2)
 - [Advanced Panic in Golang: Mastering Error Handling](https://towardsdev.com/advanced-panic-in-golang-mastering-error-handling-113661f9e363?source=rss-a41e1a6bf452------2)
 - [Introduction to Version Control: Managing Your Code with Confidence](https://towardsdev.com/introduction-to-version-control-managing-your-code-with-confidence-b24c0d25c519?source=rss-a41e1a6bf452------2)
