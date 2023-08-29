@@ -33,10 +33,10 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
-- [10 Free Public APIs for Developers: Enhance Your Apps with Weather, Jokes, and More](https://towardsdev.com/10-free-public-apis-for-developers-enhance-your-apps-with-weather-jokes-and-more-75ed5e453705?source=rss-a41e1a6bf452------2)
+- [10 Free Public APIs for Developers: Enhance Your Apps with Weather, Jokes, and More](https://medium.com/@isuruvihan/10-free-public-apis-for-developers-enhance-your-apps-with-weather-jokes-and-more-75ed5e453705?source=rss-a41e1a6bf452------2)
 - [Mastering Advanced String Functions in Go](https://towardsdev.com/mastering-advanced-string-functions-in-go-a4a21c8cc262?source=rss-a41e1a6bf452------2)
 - [Mastering Recover in Go: Advanced Error Handling Concepts](https://towardsdev.com/mastering-recover-in-go-advanced-error-handling-concepts-fe353c94da36?source=rss-a41e1a6bf452------2)
-- [10 Signs of a Bad Software Engineer: Red Flags to Watch For](https://towardsdev.com/10-signs-of-a-bad-software-engineer-red-flags-to-watch-for-583d285cd6c3?source=rss-a41e1a6bf452------2)
+- [10 Signs of a Bad Software Engineer: Red Flags to Watch For](https://medium.com/@isuruvihan/10-signs-of-a-bad-software-engineer-red-flags-to-watch-for-583d285cd6c3?source=rss-a41e1a6bf452------2)
 - [Go Defer: Advanced Concepts](https://towardsdev.com/go-defer-advanced-concepts-cdc491e182f8?source=rss-a41e1a6bf452------2)
 - [Advanced Panic in Golang: Mastering Error Handling](https://towardsdev.com/advanced-panic-in-golang-mastering-error-handling-113661f9e363?source=rss-a41e1a6bf452------2)
 - [Introduction to Version Control: Managing Your Code with Confidence](https://towardsdev.com/introduction-to-version-control-managing-your-code-with-confidence-b24c0d25c519?source=rss-a41e1a6bf452------2)
