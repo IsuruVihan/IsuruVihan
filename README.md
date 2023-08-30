@@ -33,7 +33,7 @@
 
 ## Recent Blog Posts 🗞️
 <!-- BLOG-POST-LIST:START -->
-- [Mastering String Formatting in Go: Advanced Techniques &amp; Examples](https://medium.com/@isuruvihan/mastering-string-formatting-in-go-advanced-techniques-examples-bb8905f69eb1?source=rss-a41e1a6bf452------2)
+- [Mastering String Formatting in Go: Advanced Techniques &amp; Examples](https://towardsdev.com/mastering-string-formatting-in-go-advanced-techniques-examples-bb8905f69eb1?source=rss-a41e1a6bf452------2)
 - [10 Free Public APIs for Developers: Enhance Your Apps with Weather, Jokes, and More](https://medium.com/@isuruvihan/10-free-public-apis-for-developers-enhance-your-apps-with-weather-jokes-and-more-75ed5e453705?source=rss-a41e1a6bf452------2)
 - [Mastering Advanced String Functions in Go](https://towardsdev.com/mastering-advanced-string-functions-in-go-a4a21c8cc262?source=rss-a41e1a6bf452------2)
 - [Mastering Recover in Go: Advanced Error Handling Concepts](https://towardsdev.com/mastering-recover-in-go-advanced-error-handling-concepts-fe353c94da36?source=rss-a41e1a6bf452------2)
